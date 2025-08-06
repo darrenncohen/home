@@ -1,3 +1,3 @@
 # Darren Cohen
 
-### Contact <a href="mailto:info@darrencohen.me>info@darrencohen.me</a>
+### Contact: [info@darrencohen.me](mailto: info@darrencohen.me)
